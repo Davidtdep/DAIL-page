@@ -3,3 +3,8 @@
 releases/*.exe
 releases/*.dmg
 releases/*.AppImage
+
+# installers
+releases/*.exe
+releases/*.dmg
+releases/*.AppImage
