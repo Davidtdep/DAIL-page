@@ -1,0 +1,5 @@
+
+# installers
+releases/*.exe
+releases/*.dmg
+releases/*.AppImage
